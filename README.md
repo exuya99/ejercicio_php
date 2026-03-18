@@ -32,3 +32,8 @@ Esta es un ejercicio de PHP básico para probar como funciona esta tecnología. 
 ```bash
     http://localhost/proyecto_php/index.php
 ```
+## Autor
+- Edgar David Xuyá Chocon
+- Carnet - 26000113
+- 26000113@galileo.edu
+- [@exuya99](https://www.github.com/exuya99)
