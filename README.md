@@ -1,5 +1,5 @@
 
-# App de consumo API
+# Ejercicio básico PHP
 
 Esta es un ejercicio de PHP básico para probar como funciona esta tecnología. Básicamente solo estamos imprimiendo nuestro nombre con un saludo y una imagen generada por IA, también utilizamos un poco de html básico y css para darle un color de fondo y centrar nuestro contenido.
 ## Tecnologías utilizadas
